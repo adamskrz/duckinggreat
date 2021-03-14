@@ -1,0 +1,35 @@
+TL;DR: You've got your duck! (Order #{order})
+
+Hiya!
+
+Thank you for being so ducking great and getting a purple programming companion/bathtime buddy/new pet! We've receieved your pre-order, so you're definitely getting a duck! Or two. Or five. You'll get another email as soon as they're en-route to our secure warehouse (meaning Leo's flat), and another once we've started on-campus distribution.
+
+Just to confirm, you've ordered {count} ducks at £{2.50 - discount} each, for a total order of £{count * (2.50 - discount)}. If we've gotten anything wrong or you'd like to change or cancel your preorder, reply to this email and we'll be happy to fix it.
+
+If you've selected UK delivery instead of on-campus delivery, we're exploring ways to make that cost as low as possible and we'll let you know how much it'll cost closer to payment. You can switch to on-campus delivery at any time and we'll hold your duck safely until you can get back to your accommodation.
+
+Right now, the preferred payment methods are UK bank transfer or PayPal. As with delivery, we'll let you know more definite details closer to payment.
+
+If you've got any questions, comments or concerns, please reply to this email or message either of us on Slack or Discord. We'll get back to you as soon as we can.
+
+Thank you for making this happen,
+
+Josh and Leo
+
+//
+
+Hiya!
+
+Thank you for being so ducking great and getting a purple programming companion/bathtime buddy/new pet! We've received your pre-order, so you're definitely getting a duck! Or two. Or five. You'll get another email as soon as they're en-route to our secure warehouse (meaning Leo's flat), and another once we've started on-campus distribution.
+
+Just to confirm, you've ordered {quantity} duck{"s" if quantity > 1 else ""} at £{price_per_duck:.2f} each, for a total order of £{total_price:.2f}. This price doesn't include shipping costs if you've chosen off campus delivery. If we've gotten anything wrong or you'd like to change or cancel your preorder, reply to this email and we'll be happy to fix it.
+
+If you've selected wider UK delivery instead of on-campus delivery, we're exploring ways to make that cost as low as possible and we'll let you know how much it'll cost closer to payment. You can switch to on-campus delivery at any time and we'll hold your duck safely until you can get back to your accommodation.
+
+Right now, the preferred payment methods are UK bank transfer or PayPal. As with delivery, we'll let you know more definite details closer to payment.
+
+If you've got any questions, comments or concerns, please reply to this email or message either of us on Slack or Discord. We'll get back to you as soon as we can.
+
+Thank you for making this happen and have a quacking time,
+
+Josh and Leo
